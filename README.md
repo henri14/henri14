@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @henri14
+- 👀 I’m interested in electronics, many aspects of computing and networking
+- 🌱 I’m currently learning ECU diagnosis for Renault Sport hatches
